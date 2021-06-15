@@ -1,0 +1,60 @@
+
+body{
+
+    background: rgba(255, 255, 0, 0.568);
+    width: 100%;
+    margin: auto; 
+   
+           
+}
+
+.cabecalho{
+   
+        background-color: black;
+        text-align: center;
+        background-color: #DCDCDC;
+        font-family: EuclidBold;
+        font-size: 100px;
+        height: 160px;
+       
+
+}
+
+.imagem1{
+    position: absolute;
+    margin-left: 360px;
+    padding: 10px 0;
+  
+
+}
+
+.imagem2{
+    position: absolute;
+    margin-left: 700px;
+    padding: 10px 0;
+  
+}
+
+.imagem3{
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 360px;
+    
+}
+
+.imagem4{
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 360px;
+
+}
+#paragrafo1{        
+    color:black;
+    background-color: #DCDCDC;
+    text-align: center;
+    margin: 5px 5px 5px 5px ;
+    font-family: EuclidBold;
+    font-size: 23px;
+    height: 35px;
+}
+
